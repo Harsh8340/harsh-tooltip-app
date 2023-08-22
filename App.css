@@ -185,14 +185,11 @@ h1 {
   transform: translateY(-50%);
   border-left-color: #333;
 }
-
-/* Add a subtle hover effect to target buttons */
 .target-button:hover {
   background-color: #0056b3;
   transform: translateY(-3px);
 }
 
-/* Add a smooth transition for target button scaling */
 .target-button.transition {
   transition: transform 0.3s;
 }
