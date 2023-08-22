@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/harsh-tooltip-app/static/css/main.48c42049.css",
+    "main.js": "/harsh-tooltip-app/static/js/main.3732b9db.js",
+    "static/js/787.0be7516b.chunk.js": "/harsh-tooltip-app/static/js/787.0be7516b.chunk.js",
+    "static/media/1288080 (1).jpg": "/harsh-tooltip-app/static/media/1288080 (1).44c2fddd72ff6d2a4fa0.jpg",
+    "index.html": "/harsh-tooltip-app/index.html",
+    "main.48c42049.css.map": "/harsh-tooltip-app/static/css/main.48c42049.css.map",
+    "main.3732b9db.js.map": "/harsh-tooltip-app/static/js/main.3732b9db.js.map",
+    "787.0be7516b.chunk.js.map": "/harsh-tooltip-app/static/js/787.0be7516b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48c42049.css",
+    "static/js/main.3732b9db.js"
+  ]
+}
